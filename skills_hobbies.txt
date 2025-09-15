@@ -1,0 +1,7 @@
+Skills:
+- HTML, CSS, JavaScript, Java, OOP
+
+Hobbies:
+- Listening to music
+- Playing cricket
+- Designing playful UI elements
